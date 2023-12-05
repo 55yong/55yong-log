@@ -8,12 +8,12 @@ const CONFIG = {
     email: "rmdir@kakao.com",
     linkedin: "",
     github: "",
-    instagram: "",
+    instagram: "ync_its",
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `익명 게시판`,
+      href: "https://padlet.com/a56986631/it-s-seistm8ti1tlux4i",
     },
   ],
   // blog setting (required)

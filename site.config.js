@@ -1,25 +1,25 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "morethanmin",
+    name: "55yong",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
+    role: "IT's 동아리 홈페이지",
+    bio: "학습과 교류를 통해 개개인이 각자도생할 수 있도록 역량을 키워주는 동아리",
+    email: "rmdir@kakao.com",
+    linkedin: "",
+    github: "55yong",
     instagram: "",
   },
   projects: [
     {
-      name: `morethan-log`,
+      name: `IT's HomePage`,
       href: "https://github.com/morethanmin/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "IT's HomePage",
+    description: "IT's 동아리 홈페이지에 오신 것을 환영합니다!",
   },
 
   // CONFIG configration (required)
@@ -47,7 +47,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: true,
+    enable: false,
     config: {
       repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || "",
       "issue-term": "og:title",

@@ -20,6 +20,7 @@ const CONFIG = {
   blog: {
     title: "IT's HomePage",
     description: "IT's 동아리 홈페이지에 오신 것을 환영합니다!",
+    theme: "auto", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
@@ -49,7 +50,7 @@ const CONFIG = {
   utterances: {
     enable: false,
     config: {
-      repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || "",
+      repo: "55yong/IT-s-HomePage",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },

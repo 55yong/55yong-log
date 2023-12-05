@@ -4,7 +4,7 @@ const CONFIG = {
     name: "IT's",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "IT's 동아리 홈페이지",
-    bio: "학습과 교류를 통해 개개인이 각자도생할 수 있도록 역량을 키워주는 동아리",
+    bio: "학습과 교류를 통해 개개인의 역량을 키워주는 동아리",
     email: "rmdir@kakao.com",
     linkedin: "",
     github: "",

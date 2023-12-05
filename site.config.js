@@ -12,8 +12,12 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `익명 게시판`,
+      name: `IT's 대나무숲`,
       href: "https://padlet.com/a56986631/it-s-seistm8ti1tlux4i",
+    },
+    {
+      name: `동아리 신청서 작성`,
+      href: "https://forms.gle/VrLTiV9kbxYjtYyY9",
     },
   ],
   // blog setting (required)

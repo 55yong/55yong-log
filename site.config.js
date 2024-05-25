@@ -1,31 +1,31 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "IT's",
+    name: "Yongjun OH",
     image: "/logo.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "IT's 동아리 홈페이지",
-    bio: "학습과 교류를 통해 개개인의 역량을 키워주는 동아리",
+    role: "Front-end Developer",
+    bio: "멋쟁이사자처럼 12기 (영남이공대학교 1기) 프론트엔드 개발자",
     email: "rmdir@kakao.com",
     linkedin: "",
-    github: "",
-    instagram: "ync_its",
+    github: "55yong",
+    instagram: "55yong_",
   },
   projects: [
     {
-      name: `IT's 대나무숲`,
-      href: "https://padlet.com/a56986631/it-s-seistm8ti1tlux4i",
+      name: `프론트엔드 스터디`,
+      href: "https://github.com/55yong/Frontend-Study",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "IT's HomePage",
-    description: "IT's 동아리 홈페이지에 오신 것을 환영합니다!",
+    title: "55yonglog",
+    description: "오용의 기술, 잡담용 블로그",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
-  link: "https://yncits.vercel.app",
-  since: 2023, // If leave this empty, current year will be used.
+  link: "https://55yong.vercel.app",
+  since: 2024, // If leave this empty, current year will be used.
   lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
@@ -50,7 +50,7 @@ const CONFIG = {
   utterances: {
     enable: false,
     config: {
-      repo: "55yong/IT-s-HomePage",
+      repo: "55yong/55yonglog",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },

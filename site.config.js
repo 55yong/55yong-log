@@ -50,7 +50,7 @@ const CONFIG = {
   utterances: {
     enable: false,
     config: {
-      repo: "55yong/55yonglog",
+      repo: "55yong/55yong-log",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },

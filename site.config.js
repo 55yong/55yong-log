@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "55yonglog",
+    title: "55yong-log",
     description: "오용의 기술, 잡담용 블로그",
     theme: "auto", // ['light', 'dark', 'auto']
   },

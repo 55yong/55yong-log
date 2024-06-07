@@ -6,14 +6,14 @@ const CONFIG = {
     role: "Front-End Developer",
     bio: "멋쟁이사자처럼 12기 (영남이공대학교 1기) 프론트엔드 개발자",
     email: "rmdir@kakao.com",
-    linkedin: "",
+    linkedin: "55yong",
     github: "55yong",
     instagram: "55yong_",
   },
   projects: [
     {
-      name: `프론트엔드 스터디`,
-      href: "https://github.com/55yong/Frontend-Study",
+      name: `포트폴리오`,
+      href: "https://55yong.github.io",
     },
   ],
   // blog setting (required)

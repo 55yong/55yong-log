@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `포트폴리오`,
-      href: "https://55yong.github.io",
+      name: `TEAM-GDG`,
+      href: "https://github.com/TEAM-GDG",
     },
   ],
   // blog setting (required)
